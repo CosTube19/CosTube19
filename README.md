@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CosTube19
-- 👀 I’m interested in Python, Java, SQL, PowerBI.
+- 👀 I’m interested in Python, R, SQL, PowerBI.
 - 🌱 I’m currently learning NLP, A.I. & M.L.
 - 📫Mail Id- kaustubhlk97@gmail.com
 
