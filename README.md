@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @CosTube19
+- 👋 Hi, I’m Kaustubh.
 - 👀 I’m interested in Python, R, SQL, PowerBI.
-- 🌱 I’m currently learning NLP, A.I. & M.L.
+- I’m currently learning Machine Learning and data science concepts.
 - 📫Mail Id- kaustubhlk97@gmail.com
 
-<!---
-CosTube19/CosTube19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
